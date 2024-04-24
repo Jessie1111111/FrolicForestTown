@@ -1,0 +1,22 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+  overflow: hidden;
+  height: 100%; 
+  margin: 0; 
+  background: #c7edfb; 
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
